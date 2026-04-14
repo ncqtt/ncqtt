@@ -16,7 +16,7 @@ interests   →  web development/open sauce
 
 **find me**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ncqtt-181717?style=flat&logo=github)](https://github.com/ncqtt) [![Maik](https://img.shields.io/badge/Tuta-ncqtt-red?style=flat&logo=tuta)](mailto:ncqtt@tuta.io)
+[![GitHub](https://img.shields.io/badge/GitHub-ncqtt-181717?style=flat&logo=github)](https://github.com/ncqtt) [![Maik](https://img.shields.io/badge/Tuta-ncatt-red?style=flat&logo=tuta)](mailto:ncatt@tuta.io)
 
 ---
 
